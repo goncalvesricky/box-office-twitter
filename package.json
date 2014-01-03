@@ -1,0 +1,9 @@
+{
+    "name": "box-office-predictor",
+    "description": "count tweets&box-office",
+    "version": "0.0.1",
+    "dependencies": {
+        "ntwitter": "0.5.x",
+        "redis": "0.8.x"
+    }
+}
